@@ -1,0 +1,1 @@
+export default  API_URL="https://fast-app-v1.herokuapp.com"
